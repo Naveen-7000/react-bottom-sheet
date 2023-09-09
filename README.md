@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Clone the repository and set it up locally on your device.
+<h1>Clone the repository and set it up locally on your device.</h1>
 
-### `https://github.com/Naveen-7000/react-bottom-sheet.git`
+# `https://github.com/Naveen-7000/react-bottom-sheet.git`
 
 ## How to run : 
 
