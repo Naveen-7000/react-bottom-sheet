@@ -20,7 +20,7 @@ const BottomSheet = () => {
 
   // methods to manipulate the element
 
-  const showBottomSheet = () => {
+ const showBottomSheet = () => {
     setIsBottomSheetVisible(true);
     document.body.style.overflowY = "hidden";
     updateSheetHeight(50);
@@ -146,8 +146,8 @@ const BottomSheet = () => {
         className={`bottom-sheet ${isBottomSheetVisible ? "show" : ""}`}
         ref={bottomSheetRef}
       >
-        <div className="sheet-overlay" ref={sheetOverlayRef}></div>
-        <div className="content" ref={sheetContentRef}>
+        <div className="sheet-overlay" ref={sheetOverlayRef} data-testid="sheet-overlay"></div>
+        <div className="content" ref={sheetContentRef} data-testid="content">
           <div className="header">
             <div className="drag-icon" ref={dragIconRef}>
               <span></span>
