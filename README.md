@@ -1,4 +1,4 @@
-# BottomSheet React Component
+# React BottomSheet
 
 Welcome to the BottomSheet React Component project! This component provides a customizable bottom sheet UI with smooth animations and interactive features.
 
