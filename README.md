@@ -24,7 +24,7 @@ git clone https://github.com/naveen-7000/react-bottom-sheet-react.git
 Change your current directory to the project folder:
 
 ```shell
-cd bottom-sheet-react
+cd react-bottom-sheet
 ```
 ### Install Dependencies
 Install project dependencies by running the following command:
