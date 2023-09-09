@@ -1,57 +1,60 @@
-# Getting Started with Create React App
+# BottomSheet React Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the BottomSheet React Component project! This component provides a customizable bottom sheet UI with smooth animations and interactive features.
 
-<h1>Clone the repository and set it up locally on your device.</h1>
+## Getting Started
 
-# `https://github.com/Naveen-7000/react-bottom-sheet.git`
+Follow these simple steps to get this project up and running on your local machine.
 
-## How to run : 
+### Prerequisites
 
-## Navigate to the target folder using `cd` command in your terminal.
+Before you begin, ensure you have the following prerequisites installed:
 
-## Install the dependencies using below command : 
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [npm](https://www.npmjs.com/) (v6 or higher)
 
-### `npm install`
+### Clone the Repository
 
-## To run the project run the below command :
+First, clone this repository to your local machine using the following command:
 
-### `npm start`
+```shell
+git clone https://github.com/naveen-7000/react-bottom-sheet-react.git
+```
+### Navigate to the Project Folder
+Change your current directory to the project folder:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```shell
+cd bottom-sheet-react
+```
+### Install Dependencies
+Install project dependencies by running the following command:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```shell
+npm install
+```
 
-## To run tests run the below command : 
-### `npm test`
+### Usage
+Start the Project
+To run the project locally, use the following command:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```shell
+npm start
+```
+This will start the development server, and you can access the project in your browser at http://localhost:3000.
 
-### `npm run build`
+### Build the Project
+To build the project for production, use the following command:
+```shell
+npm build
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Run Tests
+To run tests for the project, use the following command:
+```shell
+npm test
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Acknowledgments
+Thank you for visiting this repository! If you find this component helpful, please consider giving it a ⭐️ star.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Happy coding! 🚀
