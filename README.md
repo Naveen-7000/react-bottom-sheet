@@ -2,9 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1>Clone the repository and set it up locally on your device.</h1>
 
-In the project directory, you can run:
+# `https://github.com/Naveen-7000/react-bottom-sheet.git`
+
+## How to run : 
+
+## Navigate to the target folder using `cd` command in your terminal.
+
+## Install the dependencies using below command : 
+
+### `npm install`
+
+## To run the project run the below command :
 
 ### `npm start`
 
@@ -14,6 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## To run tests run the below command : 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
